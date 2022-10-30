@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		354484EC290EED90008973B7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 354484EB290EED90008973B7 /* main.swift */; };
+		354484F3290EF11D008973B7 /* Pensioner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 354484F2290EF11D008973B7 /* Pensioner.swift */; };
+		354484F5290EF29A008973B7 /* SocFond.swift in Sources */ = {isa = PBXBuildFile; fileRef = 354484F4290EF29A008973B7 /* SocFond.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,8 @@
 /* Begin PBXFileReference section */
 		354484E8290EED90008973B7 /* 2mes5homework */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2mes5homework; sourceTree = BUILT_PRODUCTS_DIR; };
 		354484EB290EED90008973B7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		354484F2290EF11D008973B7 /* Pensioner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pensioner.swift; sourceTree = "<group>"; };
+		354484F4290EF29A008973B7 /* SocFond.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocFond.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 			isa = PBXGroup;
 			children = (
 				354484EB290EED90008973B7 /* main.swift */,
+				354484F2290EF11D008973B7 /* Pensioner.swift */,
+				354484F4290EF29A008973B7 /* SocFond.swift */,
 			);
 			path = 2mes5homework;
 			sourceTree = "<group>";
@@ -121,6 +127,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				354484EC290EED90008973B7 /* main.swift in Sources */,
+				354484F5290EF29A008973B7 /* SocFond.swift in Sources */,
+				354484F3290EF11D008973B7 /* Pensioner.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
